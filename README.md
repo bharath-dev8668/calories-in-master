@@ -6,9 +6,6 @@ If you want to run this code on your local machine, follow these simple steps:
 
 Open your Terminal (or Command Prompt).
 
-Clone the Repo:
-git clone https://github.com/bharath-dev8668/[YOUR-PROJECT-NAME].git
-
 Navigate to Folder:
 cd [YOUR-PROJECT-NAME]
 
